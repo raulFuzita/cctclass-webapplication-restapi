@@ -1,0 +1,23 @@
+{
+  "name": "cctclass-webapplication-restapi",
+  "version": "1.0.0",
+  "description": "Class example. How to use a RESTAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulFuzita/cctclass-webapplication-restapi.git"
+  },
+  "author": "Raul Fuzita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raulFuzita/cctclass-webapplication-restapi/issues"
+  },
+  "homepage": "https://github.com/raulFuzita/cctclass-webapplication-restapi#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
